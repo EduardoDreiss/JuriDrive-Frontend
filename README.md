@@ -5,7 +5,6 @@
 > Sistema web para organização, armazenamento e versionamento de processos jurídicos e seus respectivos documentos.
 
 
-\
 
 ---
 
